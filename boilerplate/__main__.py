@@ -3,7 +3,7 @@
 
 import click
 
-click.command()
+@click.command()
 def main():
     click.echo("boilerplate main command line invoked.")
 
