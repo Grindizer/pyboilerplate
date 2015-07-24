@@ -1,7 +1,9 @@
+#!/usr/bin/env python
+# -*- encoding: utf-8 -*-
 
 from click.testing import CliRunner
 
-from boilerplate.boilerplate_cli import main
+from boilerplate.__main__ import main
 
 
 def test_main():
