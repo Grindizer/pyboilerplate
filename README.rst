@@ -46,14 +46,10 @@ Installation
 
     pip install boilerplate
 
-Documentation
-=============
-
-https://boilerplate.readthedocs.org/
 
 Development
 ===========
 
 To run the all tests run::
 
-    tox
+    py.test
