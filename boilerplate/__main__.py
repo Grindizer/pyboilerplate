@@ -5,7 +5,7 @@ import click
 
 @click.command()
 def main():
-    click.echo("boilerplate main command line invoked.")
+    click.secho("Boilerplate main command line invoked.", fg='green')
 
 
 if __name__ == '__main__':
