@@ -10,7 +10,7 @@ Installation
 
 ::
 
-    pip install https://github.com/Grindizer/pyboilerplate#egg=boilerplate
+    pip install git+https://github.com/Grindizer/pyboilerplate#egg=boilerplate
 
 Or in a develop mode after downloading a zip or cloning the git repository ::
 
